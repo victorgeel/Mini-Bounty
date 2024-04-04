@@ -356,6 +356,7 @@ done
 
 [ "$silent" == False ] && echo -e $blue$bold"""
 
+
 ____
 < ^^ >
  ----
@@ -382,6 +383,8 @@ ____
 └───────────────────────────────────────────────────────────────┘
            Mini Bug Bounty Tool
               Dev: Victor Is Geek 
+
+
 """$end
 
 Main
